@@ -4,7 +4,7 @@ A full-stack MERN app to track internship/job applications with a Kanban board.
 
 **Tech Stack:** React + Vite · Node.js + Express · MongoDB Atlas · JWT Auth  
 **Deploy:** Frontend on Vercel · Backend on Render · DB on MongoDB Atlas (all free)
-
+Live: job-tracker-tau-wine.vercel.app
 ---
 
 ## Project Structure
